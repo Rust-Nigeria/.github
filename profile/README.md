@@ -1,6 +1,6 @@
 ## HELLO RUSTACEANS 👋
 
-Rust-Nieria is a rust commuity for nigeria rust lover and passionate developers, be you a newbie or a season developer. the goal is to unite rustacean in Nigeria for easy learning and netwrking with like mmid to build memory safe product.
+Rust-Nigeria is a Rust community for Nigerian Rust lovers and passionate developers, whether you're a newbie or a seasoned developer. The goal is to unite Rustaceans in Nigeria for easy learning and networking with like-minded individuals to build memory-safe products.
 ## Contribution guidelines
 
 ## Useful resources
